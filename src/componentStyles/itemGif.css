@@ -1,0 +1,14 @@
+.cont-item-gif {
+    padding: 10px 0;
+}
+
+@media screen and (max-width:768px) {
+    
+    .cont-item-gif {
+        padding: 5px 0;
+    }
+
+    .cont-item-gif>img {
+        width: 100%;
+    }
+}
